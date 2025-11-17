@@ -94,3 +94,6 @@ These visualizations confirmed structural patterns and cluster formation.
 - RDFlib (RDF graph construction)  
 - PyKEEN (embeddings & link prediction)  
 - scikit-learn (t-SNE, PCA)
+
+## Authors
+Project developed by Myriam Ait Said.
