@@ -1,6 +1,6 @@
 Here's the link the notebook with all the outputs and the visualizations of our results : https://colab.research.google.com/drive/1VVp6Z3eqZk7gNX48_mYzD3DDC06M9cdV
 
-# Web Semantics Project — Knowledge Graph Construction & Embedding
+# Web Semantics Project - Knowledge Graph Construction & Embedding
 
 ## Overview
 This project builds an end-to-end pipeline for constructing and analyzing a knowledge graph from English news articles. It covers every step from web scraping and NLP-based information extraction to RDF graph generation, enrichment with DBpedia, and knowledge graph embedding with PyKEEN.
@@ -9,7 +9,7 @@ The goal was to develop a complete, reproducible workflow for transforming unstr
 
 ---
 
-## Part 1 — Knowledge Graph Construction
+## Part 1 - Knowledge Graph Construction
 
 ### **Text Preprocessing**
 A full preprocessing pipeline was implemented:
@@ -49,7 +49,7 @@ This provided 24 high-quality articles for knowledge extraction.
 
 ---
 
-## Part 2 — Knowledge Graph Embedding with PyKEEN
+## Part 2 - Knowledge Graph Embedding with PyKEEN
 
 ### **Entity Linking & Enrichment**
 DBpedia enrichment was performed via exact label matching:
